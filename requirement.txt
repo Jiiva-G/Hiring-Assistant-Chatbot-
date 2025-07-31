@@ -1,2 +1,1 @@
 fallback_prompt = "If the user input doesn't make sense or goes off-topic, say: 'Sorry, I didn’t catch that. Could you rephrase or provide more relevant info?'"
-print(f"**Prompt:**\n{welcome_prompt}\n\n{fallback_prompt}")
